@@ -50,3 +50,6 @@ The below BASH function takes a domain's TXT records and makes the SPF Record mo
     available, there may need to be an explicit limit to how much data
     will be accepted to prevent excessive bandwidth usage or memory usage
     and DoS attacks.
+
+## Why can't I get all of the records for a domain?
+

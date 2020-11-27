@@ -1,5 +1,7 @@
 # Dealing with people abusing the network:
 
+- This applies mainly to businesses, hoiwever it can happen at home as well if your roommate is doing stuff they shouldn't.
+
 ## Users on my network are abusing it and harming the expierience of other users / servers / mission critical services
 
 In this use case, a developent department is regularly updating a large amount of data in a database every few minutes. This was litterally crippling the Admin's network.

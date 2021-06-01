@@ -15,6 +15,7 @@
     35786       0.35786   Satellite to Home Station (Your Dish).
 
 This is for just one Packet's Request and Reply.
+
 You can't optimize physics.
 
 ### "I'm playing a gaming and my ping times are higher than I'd like."
@@ -23,4 +24,5 @@ You can't optimize physics.
 - Network Utilization and Distance
 - Local Network Utilization
 - Local Machine Utilization
+- Latency at any or more network hops
 - All of these things and more come into play here.

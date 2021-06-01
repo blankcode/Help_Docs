@@ -2,7 +2,7 @@
 
 ## Satelite Internet Communication
 
-### Why does satelite internet have to be soo dang slow??
+### Why does satelite internet have to be soo dang slow (DirecTV or any other Geosynchronous satellite)??
 
     GEO | Geosynchronous Equatorial Orbit
     KMs to GEO  Seconds Delay

@@ -1,14 +1,14 @@
 # Dealing with people abusing the network:
 
-- This applies mainly to businesses, hoiwever it can happen at home as well if your roommate is doing stuff they shouldn't.
+- This applies mainly to businesses, however it can happen at home as well if your roommate is doing stuff they shouldn't.
 
-## Users on my network are abusing it and harming the expierience of other users / servers / mission critical services
+## Users on my network are abusing it and harming the experience of other users / servers / mission critical services
 
-In this use case, a developent department is regularly updating a large amount of data in a database every few minutes. This was litterally crippling the Admin's network.
+In this use case, a development department is regularly updating a large amount of data in a database every few minutes. This was literally crippling the Admin's network.
 
 ### Answer Begins:
 
-**Make them stop.** They are compremising the integrity of the network and causing frequent/major outages for the rest of the company.
+**Make them stop.** They are compromising the integrity of the network and causing frequent/major outages for the rest of the company.
 
     "You are abusing the network, change your methods or your devices will be banned."
 

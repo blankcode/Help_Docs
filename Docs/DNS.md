@@ -23,7 +23,7 @@ The below BASH function takes a domain's TXT records and makes the SPF Record mo
     include:_spf.salesforce.com
     include:docebosaas.com
 
-**NOTE**: There is a query limit of 10 total for SPF reocords.
+**NOTE**: There is a query limit of 10 total for SPF records.
 
 - [rfc4408](https://datatracker.ietf.org/doc/rfc4408/?include_text=1)
 
@@ -52,4 +52,3 @@ The below BASH function takes a domain's TXT records and makes the SPF Record mo
     and DoS attacks.
 
 ## Why can't I get all of the records for a domain?
-

@@ -1,8 +1,8 @@
 # Network Latency
 
-## Satelite Internet Communication
+## Satellite Internet Communication
 
-### Why does satelite internet have to be soo dang slow??
+### Why does satellite internet have to be soo dang slow??
 
 GEO | Geosynchronous Equatorial Orbit
 KMs to GEO Seconds Delay
